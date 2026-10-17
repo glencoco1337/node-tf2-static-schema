@@ -4,10 +4,13 @@ on:
   push:
     branches:
       - master
+  # Pushes made with GITHUB_TOKEN don't trigger workflows, so run after the
+  # scheduled update instead.
   workflow_run:
-    workflows: ["scheduled-update"]
+    workflows: ["Update schema"]
     types:
       - completed
+  workflow_dispatch:
 
 permissions:
   id-token: write
