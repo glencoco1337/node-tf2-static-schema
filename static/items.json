@@ -529738,11 +529738,6 @@
                 "name": "kill eater kill type",
                 "class": "kill_eater_kill_type",
                 "value": 64
-            },
-            {
-                "name": "attach particle effect static",
-                "class": "set_attached_particle_static",
-                "value": 28
             }
         ]
     },

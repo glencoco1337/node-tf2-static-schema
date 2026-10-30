@@ -199117,12 +199117,6 @@
             "used_by_classes": {
                 "spy": "1"
             },
-            "attributes": {
-                "attach particle effect static": {
-                    "attribute_class": "set_attached_particle_static",
-                    "value": "28"
-                }
-            },
             "visuals": {
                 "styles": {
                     "0": {
@@ -199135,15 +199129,13 @@
                         "model_player": "models/workshop/player/items/spy/sum25_le_sapeur_style2/sum25_le_sapeur_style2.mdl",
                         "skin_red": "0",
                         "skin_blu": "1",
-                        "name": "#TF_style1",
-                        "use_smoke_particle_effect": "0"
+                        "name": "#TF_style1"
                     },
                     "2": {
                         "model_player": "models/workshop/player/items/spy/sum25_le_sapeur_style3/sum25_le_sapeur_style3.mdl",
                         "skin_red": "0",
                         "skin_blu": "1",
-                        "name": "#TF_style2",
-                        "use_smoke_particle_effect": "0"
+                        "name": "#TF_style2"
                     }
                 }
             },
