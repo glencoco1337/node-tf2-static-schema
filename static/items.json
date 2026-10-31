@@ -462902,6 +462902,474 @@
         ]
     },
     {
+        "name": "Operation Mooncrash 1st Place Medal",
+        "defindex": 19250,
+        "item_class": "tf_wearable",
+        "item_type_name": "Tournament Medal",
+        "item_name": "Painter's Workshop 1st Place Medal",
+        "item_description": "For an out-of-this-world contribution to the 2026 Operation Mooncrash Event.",
+        "proper_name": false,
+        "item_slot": "misc",
+        "model_player": "models/workshop/player/items/all_class/painters_workshop_gold/painters_workshop_gold_Scout.mdl",
+        "item_quality": 6,
+        "image_inventory": "backpack/workshop/player/items/all_class/painters_workshop_mooncrash/painters_workshop_mooncrash_gold",
+        "min_ilevel": 25,
+        "max_ilevel": 25,
+        "image_url": "http://media.steampowered.com/apps/440/icons/painters_workshop_mooncrash_gold.5afbe05fa7cd7678b951c704b39a638da40209ce.png",
+        "image_url_large": "http://media.steampowered.com/apps/440/icons/painters_workshop_mooncrash_gold_large.c8b45767adb42b6b7ac3ceb82bbed7dbb5c2a48b.png",
+        "drop_type": "none",
+        "craft_class": "",
+        "craft_material_type": "",
+        "capabilities": {
+            "can_gift_wrap": true,
+            "can_craft_mark": true,
+            "can_be_restored": true,
+            "strange_parts": true,
+            "can_card_upgrade": true,
+            "can_strangify": true,
+            "can_killstreakify": true,
+            "can_consume": true
+        },
+        "attributes": [
+            {
+                "name": "kill eater score type",
+                "class": "kill_eater_score_type",
+                "value": 64
+            },
+            {
+                "name": "kill eater kill type",
+                "class": "kill_eater_kill_type",
+                "value": 64
+            },
+            {
+                "name": "cannot trade",
+                "class": "cannot_trade",
+                "value": 1
+            },
+            {
+                "name": "set item tint RGB",
+                "class": "set_item_tint_rgb",
+                "value": 7497651
+            }
+        ]
+    },
+    {
+        "name": "Operation Mooncrash 2nd Place Medal",
+        "defindex": 19251,
+        "item_class": "tf_wearable",
+        "item_type_name": "Tournament Medal",
+        "item_name": "Painter's Workshop 2nd Place Medal",
+        "item_description": "For an out-of-this-world contribution to the 2026 Operation Mooncrash Event.",
+        "proper_name": false,
+        "item_slot": "misc",
+        "model_player": "models/workshop/player/items/all_class/painters_workshop_silver/painters_workshop_silver_Scout.mdl",
+        "item_quality": 6,
+        "image_inventory": "backpack/workshop/player/items/all_class/painters_workshop_mooncrash/painters_workshop_mooncrash_silver",
+        "min_ilevel": 25,
+        "max_ilevel": 25,
+        "image_url": "http://media.steampowered.com/apps/440/icons/painters_workshop_mooncrash_silver.b7cf94a7fbfe056cdebd860c5ffeb669effb66aa.png",
+        "image_url_large": "http://media.steampowered.com/apps/440/icons/painters_workshop_mooncrash_silver_large.b50421d47adb73625f12669ff7ecb36d4bd944cf.png",
+        "drop_type": "none",
+        "craft_class": "",
+        "craft_material_type": "",
+        "capabilities": {
+            "can_gift_wrap": true,
+            "can_craft_mark": true,
+            "can_be_restored": true,
+            "strange_parts": true,
+            "can_card_upgrade": true,
+            "can_strangify": true,
+            "can_killstreakify": true,
+            "can_consume": true
+        },
+        "attributes": [
+            {
+                "name": "kill eater score type",
+                "class": "kill_eater_score_type",
+                "value": 64
+            },
+            {
+                "name": "kill eater kill type",
+                "class": "kill_eater_kill_type",
+                "value": 64
+            },
+            {
+                "name": "cannot trade",
+                "class": "cannot_trade",
+                "value": 1
+            },
+            {
+                "name": "set item tint RGB",
+                "class": "set_item_tint_rgb",
+                "value": 7497651
+            }
+        ]
+    },
+    {
+        "name": "Operation Mooncrash 3rd Place Medal",
+        "defindex": 19252,
+        "item_class": "tf_wearable",
+        "item_type_name": "Tournament Medal",
+        "item_name": "Painter's Workshop 3rd Place Medal",
+        "item_description": "For an out-of-this-world contribution to the 2026 Operation Mooncrash Event.",
+        "proper_name": false,
+        "item_slot": "misc",
+        "model_player": "models/workshop/player/items/all_class/painters_workshop_bronze/painters_workshop_bronze_Scout.mdl",
+        "item_quality": 6,
+        "image_inventory": "backpack/workshop/player/items/all_class/painters_workshop_mooncrash/painters_workshop_mooncrash_bronze",
+        "min_ilevel": 25,
+        "max_ilevel": 25,
+        "image_url": "http://media.steampowered.com/apps/440/icons/painters_workshop_mooncrash_bronze.028057652dfb2d2a7ebc140d276e83a9c139c9ea.png",
+        "image_url_large": "http://media.steampowered.com/apps/440/icons/painters_workshop_mooncrash_bronze_large.6a8e4dad48a77dfc0339d7c7066cc6d0c20d0f01.png",
+        "drop_type": "none",
+        "craft_class": "",
+        "craft_material_type": "",
+        "capabilities": {
+            "can_gift_wrap": true,
+            "can_craft_mark": true,
+            "can_be_restored": true,
+            "strange_parts": true,
+            "can_card_upgrade": true,
+            "can_strangify": true,
+            "can_killstreakify": true,
+            "can_consume": true
+        },
+        "attributes": [
+            {
+                "name": "kill eater score type",
+                "class": "kill_eater_score_type",
+                "value": 64
+            },
+            {
+                "name": "kill eater kill type",
+                "class": "kill_eater_kill_type",
+                "value": 64
+            },
+            {
+                "name": "cannot trade",
+                "class": "cannot_trade",
+                "value": 1
+            },
+            {
+                "name": "set item tint RGB",
+                "class": "set_item_tint_rgb",
+                "value": 7497651
+            }
+        ]
+    },
+    {
+        "name": "Operation Mooncrash Winner Medal",
+        "defindex": 19253,
+        "item_class": "tf_wearable",
+        "item_type_name": "Tournament Medal",
+        "item_name": "Painter's Workshop Winner",
+        "item_description": "For an out-of-this-world contribution to the 2026 Operation Mooncrash Event.",
+        "proper_name": false,
+        "item_slot": "misc",
+        "model_player": "models/workshop/player/items/all_class/painters_workshop_supporter/painters_workshop_supporter_Scout.mdl",
+        "item_quality": 6,
+        "image_inventory": "backpack/workshop/player/items/all_class/painters_workshop_mooncrash/painters_workshop_mooncrash_winner",
+        "min_ilevel": 25,
+        "max_ilevel": 25,
+        "image_url": "http://media.steampowered.com/apps/440/icons/painters_workshop_mooncrash_winner.bb2944fb10bf993fac47ac36019ab4358962a67d.png",
+        "image_url_large": "http://media.steampowered.com/apps/440/icons/painters_workshop_mooncrash_winner_large.ed847e4720bb4004aac5ef1022f57e74cf08c818.png",
+        "drop_type": "none",
+        "craft_class": "",
+        "craft_material_type": "",
+        "capabilities": {
+            "can_gift_wrap": true,
+            "can_craft_mark": true,
+            "can_be_restored": true,
+            "strange_parts": true,
+            "can_card_upgrade": true,
+            "can_strangify": true,
+            "can_killstreakify": true,
+            "can_consume": true
+        },
+        "attributes": [
+            {
+                "name": "kill eater score type",
+                "class": "kill_eater_score_type",
+                "value": 64
+            },
+            {
+                "name": "kill eater kill type",
+                "class": "kill_eater_kill_type",
+                "value": 64
+            },
+            {
+                "name": "cannot trade",
+                "class": "cannot_trade",
+                "value": 1
+            },
+            {
+                "name": "set item tint RGB",
+                "class": "set_item_tint_rgb",
+                "value": 7497651
+            }
+        ]
+    },
+    {
+        "name": "Operation Mooncrash Runner-up Medal",
+        "defindex": 19254,
+        "item_class": "tf_wearable",
+        "item_type_name": "Tournament Medal",
+        "item_name": "Painter's Workshop Runner-up",
+        "item_description": "For an out-of-this-world contribution to the 2026 Operation Mooncrash Event.",
+        "proper_name": false,
+        "item_slot": "misc",
+        "model_player": "models/workshop/player/items/all_class/painters_workshop_supporter/painters_workshop_supporter_Scout.mdl",
+        "item_quality": 6,
+        "image_inventory": "backpack/workshop/player/items/all_class/painters_workshop_mooncrash/painters_workshop_mooncrash_runner",
+        "min_ilevel": 25,
+        "max_ilevel": 25,
+        "image_url": "http://media.steampowered.com/apps/440/icons/painters_workshop_mooncrash_runner.febf2a2b67d4aa7cd211c2dbc2b1048ef8c3d052.png",
+        "image_url_large": "http://media.steampowered.com/apps/440/icons/painters_workshop_mooncrash_runner_large.caa5af707e536056277e017cc7312d8ec9d3ad62.png",
+        "drop_type": "none",
+        "craft_class": "",
+        "craft_material_type": "",
+        "capabilities": {
+            "can_gift_wrap": true,
+            "can_craft_mark": true,
+            "can_be_restored": true,
+            "strange_parts": true,
+            "can_card_upgrade": true,
+            "can_strangify": true,
+            "can_killstreakify": true,
+            "can_consume": true
+        },
+        "attributes": [
+            {
+                "name": "kill eater score type",
+                "class": "kill_eater_score_type",
+                "value": 64
+            },
+            {
+                "name": "kill eater kill type",
+                "class": "kill_eater_kill_type",
+                "value": 64
+            },
+            {
+                "name": "cannot trade",
+                "class": "cannot_trade",
+                "value": 1
+            },
+            {
+                "name": "set item tint RGB",
+                "class": "set_item_tint_rgb",
+                "value": 12357295
+            }
+        ]
+    },
+    {
+        "name": "Americana Contest 1st Place Medal",
+        "defindex": 19255,
+        "item_class": "tf_wearable",
+        "item_type_name": "Tournament Medal",
+        "item_name": "Painter's Workshop 1st Place Medal",
+        "item_description": "For an outstanding contribution to the 2026 Americana War Paint/Limited Skin Contest.",
+        "proper_name": false,
+        "item_slot": "misc",
+        "model_player": "models/workshop/player/items/all_class/painters_workshop_gold/painters_workshop_gold_Scout.mdl",
+        "item_quality": 6,
+        "image_inventory": "backpack/workshop/player/items/all_class/painters_workshop_americana/painters_workshop_americana_gold",
+        "min_ilevel": 25,
+        "max_ilevel": 25,
+        "image_url": "http://media.steampowered.com/apps/440/icons/painters_workshop_americana_gold.d31c889660c04708a7fa9f88e441f6a88625d18b.png",
+        "image_url_large": "http://media.steampowered.com/apps/440/icons/painters_workshop_americana_gold_large.e3c680e1646a04486d484f4a3944baefffcba821.png",
+        "drop_type": "none",
+        "craft_class": "",
+        "craft_material_type": "",
+        "capabilities": {
+            "can_gift_wrap": true,
+            "can_craft_mark": true,
+            "can_be_restored": true,
+            "strange_parts": true,
+            "can_card_upgrade": true,
+            "can_strangify": true,
+            "can_killstreakify": true,
+            "can_consume": true
+        },
+        "attributes": [
+            {
+                "name": "kill eater score type",
+                "class": "kill_eater_score_type",
+                "value": 64
+            },
+            {
+                "name": "kill eater kill type",
+                "class": "kill_eater_kill_type",
+                "value": 64
+            },
+            {
+                "name": "cannot trade",
+                "class": "cannot_trade",
+                "value": 1
+            },
+            {
+                "name": "set item tint RGB",
+                "class": "set_item_tint_rgb",
+                "value": 7383185
+            }
+        ]
+    },
+    {
+        "name": "Americana Contest 2nd Place Medal",
+        "defindex": 19256,
+        "item_class": "tf_wearable",
+        "item_type_name": "Tournament Medal",
+        "item_name": "Painter's Workshop 2nd Place Medal",
+        "item_description": "For an outstanding contribution to the 2026 Americana War Paint/Limited Skin Contest.",
+        "proper_name": false,
+        "item_slot": "misc",
+        "model_player": "models/workshop/player/items/all_class/painters_workshop_silver/painters_workshop_silver_Scout.mdl",
+        "item_quality": 6,
+        "image_inventory": "backpack/workshop/player/items/all_class/painters_workshop_americana/painters_workshop_americana_silver",
+        "min_ilevel": 25,
+        "max_ilevel": 25,
+        "image_url": "http://media.steampowered.com/apps/440/icons/painters_workshop_americana_silver.5174c89873648eee57e258bdfeff6139c54262ce.png",
+        "image_url_large": "http://media.steampowered.com/apps/440/icons/painters_workshop_americana_silver_large.0dfb6428bec2c72874b0c238793b21000198db17.png",
+        "drop_type": "none",
+        "craft_class": "",
+        "craft_material_type": "",
+        "capabilities": {
+            "can_gift_wrap": true,
+            "can_craft_mark": true,
+            "can_be_restored": true,
+            "strange_parts": true,
+            "can_card_upgrade": true,
+            "can_strangify": true,
+            "can_killstreakify": true,
+            "can_consume": true
+        },
+        "attributes": [
+            {
+                "name": "kill eater score type",
+                "class": "kill_eater_score_type",
+                "value": 64
+            },
+            {
+                "name": "kill eater kill type",
+                "class": "kill_eater_kill_type",
+                "value": 64
+            },
+            {
+                "name": "cannot trade",
+                "class": "cannot_trade",
+                "value": 1
+            },
+            {
+                "name": "set item tint RGB",
+                "class": "set_item_tint_rgb",
+                "value": 7383185
+            }
+        ]
+    },
+    {
+        "name": "Americana Contest 3rd Place Medal",
+        "defindex": 19257,
+        "item_class": "tf_wearable",
+        "item_type_name": "Tournament Medal",
+        "item_name": "Painter's Workshop 3rd Place Medal",
+        "item_description": "For an outstanding contribution to the 2026 Americana War Paint/Limited Skin Contest.",
+        "proper_name": false,
+        "item_slot": "misc",
+        "model_player": "models/workshop/player/items/all_class/painters_workshop_bronze/painters_workshop_bronze_Scout.mdl",
+        "item_quality": 6,
+        "image_inventory": "backpack/workshop/player/items/all_class/painters_workshop_americana/painters_workshop_americana_bronze",
+        "min_ilevel": 25,
+        "max_ilevel": 25,
+        "image_url": "http://media.steampowered.com/apps/440/icons/painters_workshop_americana_bronze.55942dde7a9b55be05c66a88dbcd7b7b0eb333d5.png",
+        "image_url_large": "http://media.steampowered.com/apps/440/icons/painters_workshop_americana_bronze_large.eb825f56b7dc41d16a99468eeb979460660fbc6a.png",
+        "drop_type": "none",
+        "craft_class": "",
+        "craft_material_type": "",
+        "capabilities": {
+            "can_gift_wrap": true,
+            "can_craft_mark": true,
+            "can_be_restored": true,
+            "strange_parts": true,
+            "can_card_upgrade": true,
+            "can_strangify": true,
+            "can_killstreakify": true,
+            "can_consume": true
+        },
+        "attributes": [
+            {
+                "name": "kill eater score type",
+                "class": "kill_eater_score_type",
+                "value": 64
+            },
+            {
+                "name": "kill eater kill type",
+                "class": "kill_eater_kill_type",
+                "value": 64
+            },
+            {
+                "name": "cannot trade",
+                "class": "cannot_trade",
+                "value": 1
+            },
+            {
+                "name": "set item tint RGB",
+                "class": "set_item_tint_rgb",
+                "value": 7383185
+            }
+        ]
+    },
+    {
+        "name": "Americana Contest Runner-up Medal",
+        "defindex": 19258,
+        "item_class": "tf_wearable",
+        "item_type_name": "Tournament Medal",
+        "item_name": "Painter's Workshop Runner-up",
+        "item_description": "For an outstanding contribution to the 2026 Americana War Paint/Limited Skin Contest.",
+        "proper_name": false,
+        "item_slot": "misc",
+        "model_player": "models/workshop/player/items/all_class/painters_workshop_supporter/painters_workshop_supporter_Scout.mdl",
+        "item_quality": 6,
+        "image_inventory": "backpack/workshop/player/items/all_class/painters_workshop_americana/painters_workshop_americana_runner",
+        "min_ilevel": 25,
+        "max_ilevel": 25,
+        "image_url": "http://media.steampowered.com/apps/440/icons/painters_workshop_americana_runner.92ce57f90f6bec1b4071b9da2fc79295cde0c476.png",
+        "image_url_large": "http://media.steampowered.com/apps/440/icons/painters_workshop_americana_runner_large.42c2a7d734865611214a45d0c73ca499945b2a9c.png",
+        "drop_type": "none",
+        "craft_class": "",
+        "craft_material_type": "",
+        "capabilities": {
+            "can_gift_wrap": true,
+            "can_craft_mark": true,
+            "can_be_restored": true,
+            "strange_parts": true,
+            "can_card_upgrade": true,
+            "can_strangify": true,
+            "can_killstreakify": true,
+            "can_consume": true
+        },
+        "attributes": [
+            {
+                "name": "kill eater score type",
+                "class": "kill_eater_score_type",
+                "value": 64
+            },
+            {
+                "name": "kill eater kill type",
+                "class": "kill_eater_kill_type",
+                "value": 64
+            },
+            {
+                "name": "cannot trade",
+                "class": "cannot_trade",
+                "value": 1
+            },
+            {
+                "name": "set item tint RGB",
+                "class": "set_item_tint_rgb",
+                "value": 7383185
+            }
+        ]
+    },
+    {
         "name": "Cosmetic Strangifier Recipe 1",
         "defindex": 20000,
         "item_class": "tool",
